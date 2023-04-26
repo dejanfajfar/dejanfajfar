@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dejan FAJFAR</h1>
 <h3 align="center">Simplicity is good</h3>
 
+
+- :tada: Borm on the 25th of October 1982
+
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **dejan@fajfar.com**
+
+- :crossed_flags: Languages
+    
+    - Slovenian: Native language
+    - German: Fluently spoken and written
+    - English: Fluently spoken and written
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
