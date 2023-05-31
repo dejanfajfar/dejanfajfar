@@ -4,6 +4,10 @@
 <h3 align="center">Simplicity is good</h3>
 
 
+---
+
+![about](images/about.png)
+
 - :tada: Borm on the 25th of October 1982
 
 - 🌱 I’m currently learning **Rust**
@@ -15,6 +19,9 @@
     - Slovenian: Native language
     - German: Fluently spoken and written
     - English: Fluently spoken and written
+
+---
+
 
 
 <h3 align="left">Connect with me:</h3>
