@@ -1,3 +1,5 @@
+![header image](images/header.png)
+
 <h1 align="center">Hi 👋, I'm Dejan FAJFAR</h1>
 <h3 align="center">Simplicity is good</h3>
 
